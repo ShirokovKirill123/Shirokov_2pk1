@@ -15,7 +15,7 @@ public class Splitlist {
         }
         for (Integer i : Splitlist)
         {
-             if (i >= 0)
+            if (i >= 0)
             {
                 positive.append(i).append(", ");
             }
